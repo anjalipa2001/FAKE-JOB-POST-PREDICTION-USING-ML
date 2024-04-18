@@ -1,0 +1,44 @@
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pie {
+    width: 350px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    height: 100px;
+}
+
+.profile {
+    height: 200px;
+}
+
+.no-color {
+    background-color: transparent;
+}
+
+.orange {
+    background-color: rgb(181, 103, 70);
+}
+
+.orange img {
+    height: 100px;
+}
+
+table,
+tr,
+td {
+    border: none;
+}
